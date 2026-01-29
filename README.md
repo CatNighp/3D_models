@@ -1,2 +1,1 @@
-# 3D_models
-# 3D_models
+# 3Dモデルを置いていくよ
